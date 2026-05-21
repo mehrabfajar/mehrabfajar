@@ -1,7 +1,7 @@
 ## Hi there 👋 
 
 
-I’m an enthusiastic and detail-oriented industrial engineer with a background that blends industrial systems and technology. I’m passionate about solving real-world problems through smart, efficient, and sustainable solutions that make a real difference. I enjoy working on impactful AI solutions, industrial automation, and scalable software projects. 
+I’m a Double Degree Masters's student with a background that blends industrial systems and technology. I’m passionate about solving real-world problems through smart, efficient, and sustainable solutions that make a real difference. I enjoy working on impactful AI solutions, industrial automation, and scalable software projects. 
 <br><br>
 ✨ Always curious and open to new opportunities where innovation, operations, and technology intersect.
 <br><br><br>
