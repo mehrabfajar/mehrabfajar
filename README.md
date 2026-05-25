@@ -13,7 +13,6 @@ I’m a Double Degree Masters's student with a background that blends industrial
 
 ⚡ Fun Facts
 
-- I consider dark mode a productivity feature.
 - I care about README formatting more than necessary.
 - My code works perfectly until I screen share.
 <br>
